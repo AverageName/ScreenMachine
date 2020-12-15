@@ -2,7 +2,7 @@
 
 ``` pip install -r requirements.txt ```      
 
-From console:
+From console:     
 ``` python screenmachine.py --time="your period with which you want to send screens" ```   
 
 OR:    
