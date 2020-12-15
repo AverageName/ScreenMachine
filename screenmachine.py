@@ -57,7 +57,7 @@ parser.add_argument('--time', type=int)
 args = parser.parse_args()
 
 start = time.time()
-args.time = 5
+#args.time = 5
 print(args.time)
 while True:
     if time.time() - start > args.time:
